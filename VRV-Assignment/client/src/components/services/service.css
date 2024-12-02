@@ -1,0 +1,31 @@
+.card2 {
+    width: 1000px;
+    padding: 10px;
+    /* background-color: #242424; */
+    /* border: 1px solid white; */
+    border-radius: 10px;
+    height: 100px;
+    display: flex;
+}
+
+.card2 button {
+    background-color: transparent;
+    width: 20%;
+    margin: 20px;
+    padding: 30px;
+}
+
+.Container {
+    /* display: flex; */
+    margin-left: 80px;
+    /* height: 80px; */
+}
+
+.card2 button:hover {
+    color: green;
+}
+
+
+/* h1 {
+      font-size: 20px;
+  } */

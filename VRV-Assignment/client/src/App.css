@@ -1,0 +1,17 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background-image: url("./Simg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panel {
+    gap: 20px;
+}
+
+.read-the-docs {
+    color: #888;
+}

@@ -1,0 +1,14 @@
+  .card3 {
+      width: 1000px;
+      padding: 20px;
+      /* border: 2px solid white; */
+      border-radius: 10px;
+      height: 400px;
+      color: rgb(252, 249, 249);
+  }
+  
+  .card3 button {
+      width: 30%;
+      margin: 10px;
+      color: red;
+  }
